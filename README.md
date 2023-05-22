@@ -1,0 +1,2 @@
+# Emotion-Recognition-And-Music-Player-Using-Facial-Expressions
+An emotional detection and music recommendation system based on user facial expressions is an innovative application that can enhance the user's music listening experience. This system combines computer vision techniques, machine learning algorithms, and music emotion mapping to create a personalized and emotionally aligned music playlist
